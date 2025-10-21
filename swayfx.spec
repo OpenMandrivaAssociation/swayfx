@@ -76,3 +76,6 @@ mkdir -p %buildroot/%_sysconfdir/%name/config.d
 %_datadir/zsh/site-functions/_sway*
 %dir %_datadir/backgrounds/sway
 %_datadir/backgrounds/sway/*
+%{_mandir}/man1/sway*
+%{_mandir}/man/man5/sway*
+%{_mandir}/man7/sway*
