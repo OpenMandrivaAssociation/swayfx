@@ -53,7 +53,8 @@ However, it is restricted to only include the functionality that existed in i3. 
 
 %build
 %meson \
-	-Dwerror=false
+	-Dwerror=false \
+	-Dsd-bus-provider=libsystemd
 %meson_build
 
 %install
