@@ -35,6 +35,7 @@ BuildRequires: pkgconfig(xkbcommon)
 BuildRequires: pkgconfig(scenefx-0.4)
 BuildRequires: scdoc
 
+%description
 Sway is an incredible window manager, and certainly one of the most well established wayland window managers. 
 However, it is restricted to only include the functionality that existed in i3. This fork ditches the simple wlr_renderer, and replaces it with our fx_renderer, capable of rendering with fancy GLES2 effects. This, along with a couple of minor changes, expands sway's featureset to include the following:
 
