@@ -13,7 +13,7 @@ Conflicts: sway
 BuildRequires: meson
 BuildRequires: a2x
 BuildRequires: pkgconfig(pam)
-BuildRequires: pkgconfig(basu)
+#BuildRequires: pkgconfig(basu)
 BuildRequires: pkgconfig(dbus-1)
 BuildRequires: pkgconfig(egl)
 BuildRequires: pkgconfig(gdk-pixbuf-2.0)
