@@ -77,5 +77,5 @@ mkdir -p %buildroot/%_sysconfdir/%name/config.d
 %dir %_datadir/backgrounds/sway
 %_datadir/backgrounds/sway/*
 %{_mandir}/man1/sway*
-%{_mandir}/man/man5/sway*
+%{_mandir}/man5/sway*
 %{_mandir}/man7/sway*
