@@ -69,9 +69,6 @@ mkdir -p %buildroot/%_sysconfdir/%name/config.d
 %_bindir/swaybar
 %_bindir/swaymsg
 %_bindir/swaynag
-%_man1dir/*
-%_man5dir/*
-%_man7dir/*
 %_datadir/wayland-sessions/sway.desktop
 %dir %_sysconfdir/sway
 %_datadir/bash-completion/completions/sway*
