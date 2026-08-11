@@ -34,7 +34,7 @@ BuildRequires: pkgconfig(wayland-server)
 BuildRequires: pkgconfig(wlroots-0.20)
 BuildRequires: pkgconfig(xcb-icccm)
 BuildRequires: pkgconfig(xkbcommon)
-BuildRequires: pkgconfig(scenefx-0.4)
+BuildRequires: pkgconfig(scenefx-0.5)
 BuildRequires: scdoc
 
 %description
