@@ -1,5 +1,5 @@
 Name: swayfx
-Version: 0.5.3
+Version: 0.6
 Release: 1
 Summary: A Beautiful Sway Fork
 License: MIT
@@ -31,7 +31,7 @@ BuildRequires: pkgconfig(wayland-cursor)
 BuildRequires: pkgconfig(wayland-egl)
 BuildRequires: pkgconfig(wayland-protocols)
 BuildRequires: pkgconfig(wayland-server)
-BuildRequires: pkgconfig(wlroots-0.19)
+BuildRequires: pkgconfig(wlroots-0.20)
 BuildRequires: pkgconfig(xcb-icccm)
 BuildRequires: pkgconfig(xkbcommon)
 BuildRequires: pkgconfig(scenefx-0.4)
